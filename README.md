@@ -1,5 +1,7 @@
 # Travelmantics
-Andela Learning Community (ALC) 4.0 Phase 2 Challenge
+Andela Learning Community (ALC) 4.0 Phase 2 Challenge by idisimagha dublin-green
+
+Used firebase as cloud database
 
 
 ## Screenshots
